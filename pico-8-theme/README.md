@@ -35,7 +35,7 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
     "window.zoomLevel": 1,
     "workbench.colorCustomizations": {
     "editorCursor.foreground": "#FF004D" ,// Pink color for the cursor,
-    "editorCursor.background": "#ca597b"  // Add this line
+    "editorCursor.background": "#ca597b"  
   },
   "editor.fontSize": 14,
   "editor.cursorWidth": 20,
