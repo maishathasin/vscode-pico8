@@ -1,0 +1,20 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "solidity.telemetry": false,
+    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#FF004D" ,// Pink color for the cursor,
+
+  },
+  "editor.fontSize": 14,
+  "editor.cursorWidth": 20,
+  "editor.fontWeight": "normal",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Arial",
+  "emmet.preferences": {
+
+  },
+
+}

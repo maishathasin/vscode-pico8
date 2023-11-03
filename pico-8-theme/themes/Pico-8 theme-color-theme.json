@@ -5,17 +5,28 @@
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"editor.background": "#1d2b53",
-		"editor.foreground": "#FFFFFF",
-		"input.background": "#FF004D",     // Background color of input box
-		"input.foreground": "#FFFFFF",     // Text color of input box
+		"editor.foreground": "#c2c3c7",
+		"input.background": "#ff77a8",     // Background color of input box
+		"input.foreground": "#FFFFFF", 
+		"list.focusBackground": "#5c1b2f",  
 		"input.placeholderForeground": "#FF77A8", // Placeholder text color of input box
-		"inputOption.activeBorder": "#FF004D",   // Border color of activated options in input fields
-		"inputValidation.infoBackground": "#FF004D", // Input validation background color for information severity
-		"inputValidation.warningBackground": "#FF004D", // Input validation background color for warning severity
-		"inputValidation.errorBackground": "#FF004D", // Input validation background color for error severity
-		"editorWidget.background": "#FF004D", // Background color of editor widgets
-		"editor.selectionBackground":  "#FFF024FF", // Yellow background for selected text
-		"sideBar.background": "#b6128a",
+		"inputOption.activeBorder": "#e9226b",   // Border color of activated options in input fields
+		"inputValidation.infoBackground": "#d30f57", 
+		"inputValidation.warningBackground": "#f23c7f", 
+		"inputValidation.errorBackground": "#fb1e6f", 
+		"editorWidget.background": "#ff77a8", // editor widgets
+		"editor.selectionBackground":  "#FFF024FF", // for selected text
+		"sideBar.background": "#7e2553",
+		"tab.activeBackground": "#e57a9a",  // for active tab
+		"tab.inactiveBackground": "#c84f4f",  // inactive tabs
+		"tab.activeForeground": "#f9f7f7",  // White text for active tab
+		"tab.inactiveForeground": "#bab9ba",  // Gray text for inactive tabs
+		"tab.border": "#e57a9a",  // Pink border between tabs
+		"tab.unfocusedActiveForeground": "#bc4a4a",  
+		"tab.unfocusedInactiveForeground": "#de8181",
+		"editorGroupHeader.tabsBackground": "#FF004D",
+		"activityBar.background": "#7e2553"
+		
 	},
 	"tokenColors": [
 
@@ -327,7 +338,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#b88de8"
 			}
 		},
 		{
@@ -495,7 +506,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#83769c"
 			}
 		},
 		{
@@ -515,7 +526,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ab5236"
 			}
 		},
 		{
@@ -525,7 +536,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#ff77a8"
 			}
 		},
 		{
@@ -536,7 +547,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff77a8"
 			}
 		},
 		{
@@ -551,7 +562,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff77a8"
 			}
 		},
 		{
@@ -561,7 +572,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#ffccaa"
 			}
 		},
 		{
@@ -597,7 +608,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#83769c"
 			}
 		},
 		{
@@ -606,7 +617,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffccaa"
 			}
 		},
 		{
