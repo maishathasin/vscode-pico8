@@ -137,7 +137,7 @@
 		{
 			"scope": ["entity.name.function"],
 			"settings": {
-			  "foreground": "#c2c3c7"  // Green color for function definitions
+			  "foreground": "#c2c3c7"  
 			}
 		  },
 		  {
@@ -497,7 +497,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#c2c3c7"
 			}
 		},
 		{
