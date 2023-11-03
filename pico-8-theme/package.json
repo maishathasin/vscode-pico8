@@ -1,0 +1,21 @@
+{
+  "name": "pico-8-theme",
+  "displayName": "Pico-8 Theme",
+  "description": "Vscode theme insipired by pico-8",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pico-8 theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pico-8 theme-color-theme.json"
+      }
+    ]
+  }
+}
