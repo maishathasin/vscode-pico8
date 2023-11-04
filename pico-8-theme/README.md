@@ -14,7 +14,7 @@ Here's a glimpse of how your code will look like with the PICO-8 Theme:
 </br>
 
 ### Python
-![Python](images/Python-theme.png)
+![Python](pico-8-theme/images/Python-theme.png)
 
 
 
