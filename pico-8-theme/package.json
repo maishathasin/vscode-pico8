@@ -2,7 +2,7 @@
   "name": "pico-8-theme",
   "displayName": "Pico-8 Theme",
   "description": "Vscode theme insipired by pico-8",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "icon": "images/icon.png",
   "author": {
     "name": "Maisha",
@@ -13,7 +13,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
