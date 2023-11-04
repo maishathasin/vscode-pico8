@@ -21,17 +21,17 @@ Here's a glimpse of how your code will look like with the PICO-8 Theme:
 </br>
 
 ### C++
-![C++](images/cpp-theme.png)
+![C++](pico-8-theme/images/cpp-theme.png)
 
 </br>
 
 ### Markdown
-![Markdown](images/Markdown-theme.png)
+![Markdown](pico-8-theme/images/Markdown-theme.png)
 
 </br>
 
 ### Selection
-![Selection](images/selection-theme.png)
+![Selection](pico-8-theme/images/selection-theme.png)
 
 </br>
 
@@ -56,7 +56,7 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 1. Download the font and install the font to your computer
     - (MAC USERS): after unzipping the file -> click the **.tff** file and click **Download** 
 
-    ![Download](images/download-button-font.png)
+    ![Download](pico-8-theme/images/download-button-font.png)
 
 
 
@@ -83,6 +83,7 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 
 
 </br>
+
 
 
 ### Contributions
