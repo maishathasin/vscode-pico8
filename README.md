@@ -39,7 +39,7 @@ Here's a glimpse of how your code will look like with the PICO-8 Theme:
 
 1. Open the **Extensions** sidebar panel in VS Code. `View → Extensions`
 
-2. Search for `Pico-8-theme`
+2. Search for `Pico-8 theme`
 
 3. Click `Install`
 
