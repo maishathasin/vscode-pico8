@@ -1,13 +1,28 @@
-# pico-8-theme README
+# PICO-8-theme 
+</br>
 
 This is a Vscode theme inspired by pico-8 text editor. 
+</br>
 
+### Python
 ![Python](images/Python-theme.png)
+
+</br>
+
+### C++
 ![C++](images/cpp-theme.png)
+
+</br>
+
+### Markdown
 ![Markdown](images/Markdown-theme.png)
+
+</br>
+
+### Selection
 ![Selection](images/selection-theme.png)
 
-
+</br>
 
 ## Installation
 
@@ -55,10 +70,11 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 ``` 
 
 
+</br>
 
-### Contributions, Issues & Suggestions
+### Contributions
 
-Any issues, feedback and contributions are welcome! Please make an issue in the Repo's [Repo's GitHub Issues](https://github.com/spaceinvadev/alternight-vscode-theme/issues) page, provide feedback or request a feature by submitting a PR.
+Any issues, feedback and contributions are welcome! Please make an issue in the Repo's issues [Repo's GitHub Issues](https://github.com/maishathasin/vscode-pico8/issues) page, provide feedback or request a feature by submitting a issue or a PR.
 
 <br/>
 
