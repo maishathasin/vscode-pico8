@@ -89,4 +89,4 @@ We welcome any and all feedback, contributions, and suggestions! Feel free to ra
 <br/>
 
 
-** Made with ☕️ and 🌯 by Maisha! **
+**Made with ☕️ and 🌯 by Maisha!**
