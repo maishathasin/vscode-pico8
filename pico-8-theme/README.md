@@ -46,4 +46,12 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 ``` 
 
 
+
+### Contributions, Issues & Suggestions
+
+Any issues, feedback and contributions are welcome! Please make an issue in the Repo's [Repo's GitHub Issues](https://github.com/spaceinvadev/alternight-vscode-theme/issues) page, provide feedback or request a feature by submitting a PR.
+
+<br/>
+
+
 **Enjoy!**
