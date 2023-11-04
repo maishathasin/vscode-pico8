@@ -2,6 +2,12 @@
 
 This is a Vscode theme inspired by pico-8 text editor. 
 
+![Python](images/Python-theme.png)
+![C++](images/cpp-theme.png)
+![Markdown](images/Markdown-theme.png)
+![Selection](images/selection-theme.png)
+
+
 
 ## Installation
 
@@ -24,7 +30,7 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 1. Download the font and install the font to your computer
     (MAC USERS): after unzipping the file -> click the '.tff' file and click download 
 
-    ![Python](images/download-button-font.png)
+    ![Download](images/download-button-font.png)
 
 
 2. Open Vscode and then go to the command palette and type "Preferences: Open User Settings (JSON)", Edit your user settings to include
