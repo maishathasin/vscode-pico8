@@ -1,5 +1,8 @@
 # PICO-8 VSCode Theme
 
+![GitHub issues](https://img.shields.io/github/issues/maishathasin/vscode-pico8)
+
+
 Welcome to the PICO-8 Theme for Visual Studio Code! This theme is inspired by the aesthetics of the PICO-8 fantasy console's text editor, aiming to bring the nostalgic and retro feel into your modern coding environment.
 
 
