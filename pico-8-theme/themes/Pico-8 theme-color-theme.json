@@ -6,10 +6,10 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"editor.background": "#1d2b53",
 		"editor.foreground": "#c2c3c7",
-		"input.background": "#ff77a8",     // Background color of input box
+		"input.background": "#ff77a8",     
 		"input.foreground": "#FFFFFF", 
 		"list.focusBackground": "#5c1b2f",  
-		"input.placeholderForeground": "#f3ebee", // Placeholder text color of input box
+		"input.placeholderForeground": "#f3ebee", // text color of input box
 		"inputOption.activeBorder": "#e9226b",  
 		"inputValidation.infoBackground": "#d30f57", 
 		"inputValidation.warningBackground": "#f23c7f", 
@@ -32,7 +32,7 @@
 		{
 			"scope": ["keyword.control"],
 			"settings": {
-			  "foreground": "#FF004D"  // Pink color for keywords like def, if, else
+			  "foreground": "#FF004D" 
 			}
 		  },
 
@@ -46,7 +46,7 @@
 		{
 			"scope": ["keyword.operator", "punctuation", "punctuation.definition", "punctuation.separator", "punctuation.terminator"],
 			"settings": {
-			  "foreground": "#FFFFFF"  // White color for operators
+			  "foreground": "#FFFFFF"  // for operators
 			}
 		  },
 		  
@@ -142,14 +142,14 @@
 		  {
 			"scope": ["support.function"],
 			"settings": {
-			  "foreground": "#00e436"  // Blue color for function calls
+			  "foreground": "#00e436" 
 			}
 		  },
 
 		  	{
 			"scope": ["meta.function-call"],
 			"settings": {
-			  "foreground": "#00e436"  // Green color for function calls
+			  "foreground": "#00e436"  //  function calls
 			}
 		  },
 		
