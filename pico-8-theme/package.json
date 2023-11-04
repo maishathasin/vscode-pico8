@@ -11,6 +11,7 @@
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
+    
   },
   "engines": {
     "vscode": "^1.84.0"
