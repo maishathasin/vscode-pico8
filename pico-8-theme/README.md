@@ -1,7 +1,13 @@
-# PICO-8-theme 
+# PICO-8 VSCode Theme
+
+Welcome to the PICO-8 Theme for Visual Studio Code! This theme is inspired by the aesthetics of the PICO-8 fantasy console's text editor, aiming to bring the nostalgic and retro feel into your modern coding environment.
+
+
+
 </br>
 
-This is a Vscode theme inspired by pico-8 text editor. 
+Here's a glimpse of how your code will look like with the PICO-8 Theme:
+
 </br>
 
 ### Python
@@ -32,9 +38,9 @@ This is a Vscode theme inspired by pico-8 text editor.
 
 3. Click `Install`
 
-4. When prompted, select `Pico-8-theme` as the color theme
+4. Once installed, you'll be prompted to select Pico-8-theme as your color theme. Confirm the selection.
 
-> In case of not being prompted to select a Color Theme upon installing, go to the menu bar and select: `Code (File, on Windows) > Preferences > Color Theme > Pico-8-theme`. Alternatively, you can use the shortcut `⌘/Ctrl + K > ⌘/Ctrl + T` and select `Pico-8-theme`.
+If you aren't prompted to select a color theme upon installation: `Code (File, on Windows) > Preferences > Color Theme > Pico-8-theme`. Alternatively, you can use the shortcut `⌘/Ctrl + K > ⌘/Ctrl + T` and select `Pico-8-theme`.
 
 <br />
 
@@ -43,12 +49,12 @@ This is a Vscode theme inspired by pico-8 text editor.
 I am using the pico-8 font from https://fontstruct.com/fontstructions/show/2052852/pico-8-27 , and I  have my own personal settings for the cursor. To change the font and the cursor settings:
 
 1. Download the font and install the font to your computer
-    (MAC USERS): after unzipping the file -> click the '.tff' file and click download 
+    - (MAC USERS): after unzipping the file -> click the **.tff** file and click **Download** 
 
     ![Download](images/download-button-font.png)
 
 
-2. Open Vscode and then go to the command palette and type "Preferences: Open User Settings (JSON)", Edit your user settings to include
+2. Open Vscode and then go to the command palette **(Cmd/Ctrl + Shift + P)** and type `"Preferences: Open User Settings (JSON)"`, Edit your user settings to include
 
 ```
 {
@@ -72,11 +78,15 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 
 </br>
 
+### Testing 
+
+This extension has been tested on python, C++, C and markdown files. If you encounter any inconsistencies, please don't hesitate to report them by creating an issue.
+
 ### Contributions
 
-Any issues, feedback and contributions are welcome! Please make an issue in the Repo's issues [Repo's GitHub Issues](https://github.com/maishathasin/vscode-pico8/issues) page, provide feedback or request a feature by submitting a issue or a PR.
+We welcome any and all feedback, contributions, and suggestions! Feel free to raise an issue on the [Repo's GitHub Issues](https://github.com/maishathasin/vscode-pico8/issues) or submit a Pull Request.
 
 <br/>
 
 
-**Enjoy!**
+** Made with ☕️ and 🌯 by Maisha! **
