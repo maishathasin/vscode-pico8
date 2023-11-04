@@ -11,22 +11,24 @@ Here's a glimpse of how your code will look like with the PICO-8 Theme:
 </br>
 
 ### Python
-![Python](/images/Python-theme.png)
+![Python](pico-8-theme/images/Python-theme.png)
+
+
 
 </br>
 
 ### C++
-![C++](/images/cpp-theme.png)
+![C++](pico-8-theme/images/cpp-theme.png)
 
 </br>
 
 ### Markdown
-![Markdown](/images/Markdown-theme.png)
+![Markdown](pico-8-theme/images/Markdown-theme.png)
 
 </br>
 
 ### Selection
-![Selection](/images/selection-theme.png)
+![Selection](pico-8-theme/images/selection-theme.png)
 
 </br>
 
