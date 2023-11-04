@@ -9,8 +9,8 @@
 		"input.background": "#ff77a8",     // Background color of input box
 		"input.foreground": "#FFFFFF", 
 		"list.focusBackground": "#5c1b2f",  
-		"input.placeholderForeground": "#FF77A8", // Placeholder text color of input box
-		"inputOption.activeBorder": "#e9226b",   // Border color of activated options in input fields
+		"input.placeholderForeground": "#f3ebee", // Placeholder text color of input box
+		"inputOption.activeBorder": "#e9226b",  
 		"inputValidation.infoBackground": "#d30f57", 
 		"inputValidation.warningBackground": "#f23c7f", 
 		"inputValidation.errorBackground": "#fb1e6f", 
@@ -19,9 +19,9 @@
 		"sideBar.background": "#7e2553",
 		"tab.activeBackground": "#e57a9a",  // for active tab
 		"tab.inactiveBackground": "#c84f4f",  // inactive tabs
-		"tab.activeForeground": "#f9f7f7",  // White text for active tab
-		"tab.inactiveForeground": "#bab9ba",  // Gray text for inactive tabs
-		"tab.border": "#e57a9a",  // Pink border between tabs
+		"tab.activeForeground": "#ffffff", 
+		"tab.inactiveForeground": "#bab9ba",  
+		"tab.border": "#e57a9a",  
 		"tab.unfocusedActiveForeground": "#bc4a4a",  
 		"tab.unfocusedInactiveForeground": "#de8181",
 		"editorGroupHeader.tabsBackground": "#FF004D",
@@ -29,7 +29,6 @@
 		
 	},
 	"tokenColors": [
-
 		{
 			"scope": ["keyword.control"],
 			"settings": {
