@@ -18,13 +18,12 @@ jobs:
       with:
         node-version: '14'
 
-    - name: Navigate to Theme Directory
-      run: cd pico-8-theme
-
     - name: Install Dependencies
       run: npm install
+      working-directory: pico-8-theme
 
     - name: Publish to Marketplace
       run: npx vsce publish -p ${{ secrets.VSCE_PAT }}
+      working-directory: pico-8-theme
 
 
