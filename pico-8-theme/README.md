@@ -45,7 +45,7 @@ Here's a glimpse of how your code will look like with the PICO-8 Theme:
 
 4. Once installed, you'll be prompted to select Pico-8-theme as your color theme. Confirm the selection.
 
-If you aren't prompted to select a color theme upon installation: `Code (File, on Windows) > Preferences > Color Theme > Pico-8-theme`. Alternatively, you can use the shortcut `⌘/Ctrl + K > ⌘/Ctrl + T` and select `Pico-8-theme`.
+If you aren't prompted to select a color theme upon installation: `Code (File, on Windows) > Preferences > Color Theme > Pico-8 theme`. Alternatively, you can use the shortcut `⌘/Ctrl + K > ⌘/Ctrl + T` and select `Pico-8 theme`.
 
 <br />
 
@@ -84,9 +84,6 @@ I am using the pico-8 font from https://fontstruct.com/fontstructions/show/20528
 
 </br>
 
-### Testing 
-
-This extension has been tested on python, C++, C and markdown files. If you encounter any inconsistencies, please don't hesitate to report them by creating an issue.
 
 ### Contributions
 
