@@ -2,12 +2,36 @@
   "name": "pico-8-theme",
   "displayName": "Pico-8 Theme",
   "description": "Vscode theme insipired by pico-8",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Maisha",
+    "url": "https://github.com/maishathasin/vscode-pico8"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Themes",
+    "Dark",
+    "Pink",
+    "Indie",
+    "Retro",
+    "80s",
+    "Neon",
+    "PICO",
+    "PICO-8",
+    "Game",
+    "Pico",
+    "Night"
   ],
   "contributes": {
     "themes": [
