@@ -1,7 +1,7 @@
 # PICO-8 VSCode Theme
 
 ![GitHub issues](https://img.shields.io/github/issues/maishathasin/vscode-pico8)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/mai314.pico-8-theme)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mai314.pico-8-theme)
 
 
 
